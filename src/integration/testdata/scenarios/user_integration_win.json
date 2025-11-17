@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "1471cf7f-9860-4c0a-8cde-4e87d0e3f002",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 150,
+      "timestamp": "2025-01-01T00:01:00Z"
+    },
+    {
+      "id": "27920cfa-e2ae-4d4f-87f1-0baedc9a8904",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 250,
+      "timestamp": "2025-01-01T00:03:00Z"
+    },
+    {
+      "id": "359a28a6-8bdd-4c3b-8b51-9a41db6aad06",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 350,
+      "timestamp": "2025-01-01T00:05:00Z"
+    },
+    {
+      "id": "448a6a3b-0c24-4cde-939d-58d4bdf54308",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 450,
+      "timestamp": "2025-01-01T00:07:00Z"
+    },
+    {
+      "id": "56c2e2cb-42c1-4dd5-8d7b-7490c55f7a10",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 550,
+      "timestamp": "2025-01-01T00:09:00Z"
+    }
+  ],
+  "offset": 0,
+  "limit": 100,
+  "total": 5
+}
+

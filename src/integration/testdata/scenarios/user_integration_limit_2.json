@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "0c1df9c2-6a95-4e46-9b56-ef5b2b8c9c01",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "bet",
+      "amount": 100,
+      "timestamp": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "1471cf7f-9860-4c0a-8cde-4e87d0e3f002",
+      "user_id": "integration-user-fixture",
+      "transaction_type": "win",
+      "amount": 150,
+      "timestamp": "2025-01-01T00:01:00Z"
+    }
+  ],
+  "offset": 0,
+  "limit": 2,
+  "total": 10
+}
+

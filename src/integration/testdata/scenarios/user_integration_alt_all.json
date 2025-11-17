@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "60e98a7b-147a-476e-b890-d71544a3d6b1",
+      "user_id": "integration-user-fixture-alt",
+      "transaction_type": "bet",
+      "amount": 600,
+      "timestamp": "2025-01-01T00:10:00Z"
+    },
+    {
+      "id": "6b5f4c58-3a66-4f38-8a05-47cebb6a5d5c",
+      "user_id": "integration-user-fixture-alt",
+      "transaction_type": "win",
+      "amount": 650,
+      "timestamp": "2025-01-01T00:11:00Z"
+    },
+    {
+      "id": "7656c1b9-d7e9-47ab-9b1c-1e45a7b8c5f0",
+      "user_id": "integration-user-fixture-alt",
+      "transaction_type": "bet",
+      "amount": 700,
+      "timestamp": "2025-01-01T00:12:00Z"
+    },
+    {
+      "id": "827da19f-bd89-4c47-8b5d-473f25f6b829",
+      "user_id": "integration-user-fixture-alt",
+      "transaction_type": "win",
+      "amount": 750,
+      "timestamp": "2025-01-01T00:13:00Z"
+    }
+  ],
+  "offset": 0,
+  "limit": 100,
+  "total": 4
+}
+
