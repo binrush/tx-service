@@ -47,6 +47,24 @@ Get transactions for a specific user and transaction type:
 curl http://localhost:8080/transactions?user_id=123&transaction_type=win | jq
 ```
 
+Response format:
+```json
+{
+  "items": [
+    {
+      "id": "c8dab944-f3b0-496f-8b51-892e467d6be3",
+      "user_id": "bob",
+      "transaction_type": "bet",
+      "amount": 10,
+      "timestamp": "2025-11-17T09:10:07.93507Z"
+    }
+  ],
+  "offset": 0,
+  "limit": 100,
+  "total": 1
+}
+```
+
 ## Testing
 
 To run tests, use the following command:
